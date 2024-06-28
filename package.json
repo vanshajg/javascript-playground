@@ -1,0 +1,16 @@
+{
+  "name": "leetcode.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.0.0",
+    "@types/node": "^20.10.1"
+  },
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
